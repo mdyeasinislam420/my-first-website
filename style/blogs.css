@@ -1,0 +1,36 @@
+*{
+    padding: 10px 20px 5px;
+    background: 100%;
+    opacity: 10px;
+    border-radius: 10px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: blue;
+    background-size: 50px;
+    border-color: 20px solid red;
+    /* background: 50%; */
+}
+#h{
+    color: aliceblue;
+}
+#hh{
+    color: aqua;
+}
+#hhh{
+    border-color: chartreuse;
+    background-color: black;
+    color: brown;
+}
+.Font{
+    background-color: black;
+    color: blanchedalmond;
+    font-size: xx-large;
+    text-align: left;
+}
+.sort{
+    block-size: 3px;
+    border: 2px dotted salmon;
+    border-radius: 10px;
+}
